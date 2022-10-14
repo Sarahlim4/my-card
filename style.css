@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+body { 
+    background-color: #D9D9D9;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.div1 {
+    display: flex;
+    margin: auto;
+    width: 420px;
+    height: 150px;
+    background-color: #E2544D;
+    border-radius: 6px 6px 0 0;
+    margin-top: 70px;
+}
+
+.div1 img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 15px 0px 0px 20px;
+    margin-top: 15px;
+}
+
+.nome {
+    text-align:left;
+    color:#fff;
+    margin-top: 15px;
+    margin: 10px 10px 10px 30px;
+}
+
+.div2 { 
+    height: 50px;
+    width: 420px;
+    top: 150px;
+    background-color: #BF363D;
+    border-radius: 0 0 6px 6px;
+    margin-top: 0;
+    margin: auto;
+    color: #fff;
+    padding: 15px 314px 16px 20px;
+}
+
+.div3 {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 420px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: #fff;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.linkedin {
+    width: 180px;
+    height: 55px;
+    color: #0E76A8;
+}
+
+.icone-linkedin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    Width: 55px;
+    Height: 55px;
+    border-radius: 50%;
+    font-size: 30px;
+    background-color: #0E76A8;
+    color: #fff;
+    margin: 0 20px;
+}
+
+.fa-chevron-right {
+    font-size: 43px !important;
+    color: #D6D6D6;
+    margin-left: 20px;
+}
+
+.div4 {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 420px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: #fff;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.git {
+    width: 180px;
+    height: 55px;
+    color: #000;
+}
+
+.icone-github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    Width: 55px;
+    Height: 55px;
+    border-radius: 50%;
+    font-size: 30px;
+    background-color: #000;
+    color: #fff;
+    margin: 0 20px;
+}
+
+.fa-chevron-right {
+    font-size: 43px !important;
+    color: #D6D6D6;
+    margin: left 40px;
+}
+
+.div5 {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 420px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: #fff;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.insta {
+    width: 180px;
+    height: 55px;
+    color: #E1306C;
+}
+
+.icone-instagram {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    Width: 55px;
+    Height: 55px;
+    border-radius: 50%;
+    font-size: 30px;
+    background-color: #E1306C;
+    color: #fff;
+    margin: 0 20px;
+}
+
+.fa-chevron-right {
+    font-size: 43px !important;
+    color: #D6D6D6;
+    margin-left: 20px;
+}
